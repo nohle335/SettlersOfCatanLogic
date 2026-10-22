@@ -1,0 +1,14 @@
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.AssemblyInfoInputs.cache
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.AssemblyInfo.cs
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.csproj.CoreCompileInputs.cache
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\bin\Debug\net9.0\SettlersOfCatan.exe
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\bin\Debug\net9.0\SettlersOfCatan.deps.json
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\bin\Debug\net9.0\SettlersOfCatan.runtimeconfig.json
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\bin\Debug\net9.0\SettlersOfCatan.dll
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\bin\Debug\net9.0\SettlersOfCatan.pdb
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.dll
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\refint\SettlersOfCatan.dll
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.pdb
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\SettlersOfCatan.genruntimeconfig.cache
+C:\Users\noels\source\repos\SettlersOfCatan\SettlersOfCatan\obj\Debug\net9.0\ref\SettlersOfCatan.dll
